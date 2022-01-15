@@ -39,6 +39,12 @@
 | How does a relational database work | [Link](http://coding-geek.com/how-databases-work) |
 | The Internals of PostgreSQL         | [Link](http://www.interdb.jp/pg/index.html)       |
 
+### Cheatsheet 📜
+
+| Title                               | Link                                              |
+|-------------------------------------|---------------------------------------------------|
+| Basic queries | [Link](https://www.sqltutorial.org/wp-content/uploads/2016/04/SQL-cheat-sheet.pdf) |
+| Learn sql        | [Link](https://learnsql.com/blog/sql-basics-cheat-sheet/sql-basics-cheat-sheet-a3.pdf)       |
 ___
 
 We hope this gets you interested in learning more about DBMS ✌️
